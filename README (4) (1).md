@@ -41,8 +41,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Mr.SEN HARIHARAN </p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> Fujitsu</p>
+<p><strong>Trainer Email ID:</strong> harivk1815@gmail.com</p>
+<p><strong>Trainer Designation:</strong> FCIPL</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 

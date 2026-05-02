@@ -42,7 +42,7 @@
 
 <p><strong>Trainer Name:</strong> Mr.SEN HARIHARAN </p>
 <p><strong>Trainer Email ID:</strong> harivk1815@gmail.com</p>
-<p><strong>Trainer Designation:</strong> FCIPL</p>
+<p><strong>Trainer Designation:</strong> Security Technician at FCIPL</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 

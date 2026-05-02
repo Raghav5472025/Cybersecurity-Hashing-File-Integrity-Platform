@@ -113,7 +113,7 @@ Overall, this internship gave me practical exposure to real-world cybersecurity 
   It required planning, building, optimizing, and documenting a complete real-world project.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Raghav5472025/Cybersecurity-Hashing-File-Integrity-Platform/blob/main/SURE_Trust%20project%20report%20document.pdf%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />

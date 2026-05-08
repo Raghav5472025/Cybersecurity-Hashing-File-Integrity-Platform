@@ -168,6 +168,8 @@ alt="Community Service Photo 1" width="30%">
  alt="Community Service Photo 2" width="30%">
 <img src="https://github.com/user-attachments/assets/7529e96e-b371-437c-8b4f-b6d71cbcacc5" 
  alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/user-attachments/assets/bc8458df-ea6c-4e45-9dac-e7dfb24072e6"
+ alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
